@@ -79,7 +79,6 @@ We study modern attack surfaces to help defenders build stronger systems.
 - 🔗 GitHub → https://github.com/expl0itlab/
 - 📢 Telegram → https://t.me/official_exploitlab
 - 💬 WhatsApp → https://www.whatsapp.com/channel/0029VaepfcHBVJkzG6I1y80b
-- 🤖 Aratt AI → https://aratt.ai/@exploitlab/
 
 ---
 
