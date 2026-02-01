@@ -22,9 +22,6 @@
   <a href="https://www.whatsapp.com/channel/0029VaepfcHBVJkzG6I1y80b">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp"/>
   </a>
-  <a href="https://aratt.ai/@exploitlab/">
-    <img src="https://img.shields.io/badge/Aratt-AI%20Profile-purple?style=for-the-badge"/>
-  </a>
 </p>
 
 ---
