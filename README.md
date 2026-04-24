@@ -16,7 +16,7 @@
   <a href="https://github.com/expl0itlab/">
     <img src="https://img.shields.io/badge/GitHub-expl0itlab-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://t.me/official_exploitlab">
+  <a href="https://t.me/expl0itlab">
     <img src="https://img.shields.io/badge/Telegram-Exploit%20Lab-2CA5E0?style=for-the-badge&logo=telegram"/>
   </a>
   <a href="https://www.whatsapp.com/channel/0029VaepfcHBVJkzG6I1y80b">
@@ -74,7 +74,7 @@ We study modern attack surfaces to help defenders build stronger systems.
 ## 🌐 Community Channels
 
 - 🔗 GitHub → https://github.com/expl0itlab/
-- 📢 Telegram → https://t.me/official_exploitlab
+- 📢 Telegram → https://t.me/expl0itlab
 - 💬 WhatsApp → https://www.whatsapp.com/channel/0029VaepfcHBVJkzG6I1y80b
 
 ---
