@@ -33,7 +33,7 @@
 
 **Exploit Lab** is a structured red team organization focused on offensive security research, web application pentesting, recon automation, and exploit development.
 
-We simulate real-world adversarial attacks against systems and people — under authorization — to find what defenders miss.
+We simulate real-world adversarial attacks against systems and people under authorization to find what defenders miss.
 
 Our operators are measured by results. Not certifications.
 
@@ -41,7 +41,7 @@ Our operators are measured by results. Not certifications.
 
 ## What We Do
 
-- Red team operations — full engagement lifecycle
+- Red team operations (full engagement lifecycle)
 - Web application & API security testing
 - Reconnaissance automation & attack surface mapping
 - Social engineering & OSINT operations
@@ -61,7 +61,7 @@ Our operators are measured by results. Not certifications.
   </a>
 </p>
 
-All tools are built around real offensive security workflows — not demos.
+All tools are built around real offensive security workflows, not demos.
 
 ---
 
